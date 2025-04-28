@@ -39,16 +39,16 @@ app/
 ```
 ## 📸 Capturas de pantalla
 ### Pantalla principal
-![Pantalla principal](images/imagen1.jpg)
+<img src="images/imagen1.jpg" alt="Pantalla principal" width="400">
 
 ### Crear una nueva nota
-![Crear nota](images/crear_nota.png)
+<img src="images/crear_nota.png" alt="Crear nota" width="400">
 
 ### Editar una nota existente
-![Editar nota](images/editar_nota.png)
+<img src="images/editar_nota.png" alt="Editar nota" width="400">
 
 ### Búsqueda en tiempo real
-![Búsqueda](images/busqueda_nota.png)
+<img src="images/busqueda_nota.png" alt="Búsqueda" width="400">
 
 ## 🚀 Cómo ejecutar el proyecto
 1. Clona el repositorio en tu máquina local:
