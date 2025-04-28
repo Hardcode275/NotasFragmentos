@@ -42,13 +42,12 @@ app/
 <img src="images/imagen1.0.jpg" alt="Pantalla principal" width="100">
 
 ### Crear una nueva nota
-<img src="images/crear_nota.png" alt="Crear nota" width="100">
+<img src="images/imagen2.jpg" alt="Crear nota" width="100">
 
 ### Editar una nota existente
-<img src="images/editar_nota.png" alt="Editar nota" width="400">
+<img src="images/imagen3.jpg" alt="Editar nota" width="100">
 
-### Búsqueda en tiempo real
-<img src="images/busqueda_nota.png" alt="Búsqueda" width="400">
+
 
 ## 🚀 Cómo ejecutar el proyecto
 1. Clona el repositorio en tu máquina local:
