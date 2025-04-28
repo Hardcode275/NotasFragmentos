@@ -45,7 +45,7 @@ app/
 <img src="images/imagen2.jpg" alt="Crear nota" width="100">
 
 ### Editar una nota existente
-<img src="images/imagen3.jpg" alt="Editar nota" width="100">
+<img src="images/imagen3.jpg" alt="Editar nota" width="200">
 
 
 
