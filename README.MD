@@ -39,7 +39,7 @@ app/
 ```
 ## 📸 Capturas de pantalla
 ### Pantalla principal
-<img src="images/imagen1.0.jpg" alt="Pantalla principal" width="250">
+<img src="images/imagen1.0.jpg" alt="Pantalla principal" width="100">
 
 ### Crear una nueva nota
 <img src="images/crear_nota.png" alt="Crear nota" width="100">
