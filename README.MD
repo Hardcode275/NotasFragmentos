@@ -37,6 +37,18 @@ app/
  └── res/menu/
       └── menu_main.xml
 ```
+## 📸 Capturas de pantalla
+### Pantalla principal
+![Pantalla principal](images/imagen1.png)
+
+### Crear una nueva nota
+![Crear nota](images/crear_nota.png)
+
+### Editar una nota existente
+![Editar nota](images/editar_nota.png)
+
+### Búsqueda en tiempo real
+![Búsqueda](images/busqueda_nota.png)
 
 ## 🚀 Cómo ejecutar el proyecto
 1. Clona el repositorio en tu máquina local:
