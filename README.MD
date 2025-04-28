@@ -42,7 +42,7 @@ app/
 <img src="images/imagen1.jpg" alt="Pantalla principal" width="400">
 
 ### Crear una nueva nota
-<img src="images/crear_nota.png" alt="Crear nota" width="400">
+<img src="images/crear_nota.png" alt="Crear nota" width="260">
 
 ### Editar una nota existente
 <img src="images/editar_nota.png" alt="Editar nota" width="400">
