@@ -39,7 +39,7 @@ app/
 ```
 ## 📸 Capturas de pantalla
 ### Pantalla principal
-![Pantalla principal](images/imagen1.png)
+![Pantalla principal](images/imagen1.jpg)
 
 ### Crear una nueva nota
 ![Crear nota](images/crear_nota.png)
